@@ -42,7 +42,7 @@ And as next step add dependency to project:
 
 ```gradle
 dependencies {
-    compile 'com.github.ogiba:StyleableShareDialog:v0.2.0'
+    implementation 'com.github.hoangvuanhdevelopervn:DialogShare:7b83c86f41'
 }
 ```
 
