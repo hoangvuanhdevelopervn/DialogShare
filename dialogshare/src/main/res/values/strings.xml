@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog Share</string>
+    <string name="default_dialog_title">Share title</string>
+    <string name="default_dialog_message">This is my message</string>
+</resources>

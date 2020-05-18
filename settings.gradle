@@ -1,0 +1,3 @@
+rootProject.name='DialogShareExample'
+include ':app'
+include ':dialogshare'
