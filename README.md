@@ -42,7 +42,7 @@ And as next step add dependency to project:
 
 ```gradle
 dependencies {
-    implementation 'com.github.hoangvuanhdevelopervn:DialogShare:7b83c86f41'
+    implementation 'com.github.hoangvuanhdevelopervn:DialogShare:ffd46a48ff'
 }
 ```
 
