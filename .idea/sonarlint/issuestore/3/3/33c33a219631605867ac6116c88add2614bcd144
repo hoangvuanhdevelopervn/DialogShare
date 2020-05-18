@@ -1,0 +1,33 @@
+
+™
+java:S1319›"{The type of the "shareListContent" object should be an interface such as "List" rather than the implementation "ArrayList".(í–í‡8 ý»¾¢.
+a
+java:S1155å">Use isEmpty() to check whether the collection is empty or not.(÷ÖŠ•øÿÿÿÿ8 ý»¾¢.
+A
+java:S1148Œ"#Use a logger to log this exception.(Ç’Çê8 ý»¾¢.
+¥
+java:S2681±"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¥óÅÌ8·…Ô¿¢.
+‹
+java:S4144„"hUpdate this method so that its implementation is not identical to "setTitleBackgroundColor" on line 632.(­€ÚÄúÿÿÿÿ8 ý»¾¢.
+X
+java:S1133ø"5Do not forget to remove this deprecated code someday.(’ÎÅïþÿÿÿÿ8 ý»¾¢.
+”
+java:S1319í"qThe type of the "values" object should be an interface such as "List" rather than the implementation "ArrayList".(šúçôûÿÿÿÿ8 ý»¾¢.
+X
+java:S1144¥"5Remove this unused private "setSectionNumber" method.(šýØûÿÿÿÿ8 ý»¾¢.
+N
+java:S1068>"1Remove this unused "dialogMessage" private field.(×ŒáÕ8·…Ô¿¢.
+M
+java:S1066†"/Merge this if statement with the enclosing one.(Âü˜“8 ý»¾¢.
+J
+java:S1172Ð",Remove this unused method parameter "model".(Ö¿‰Þ8 ý»¾¢.
+\
+java:S1068?":Remove this unused "dialogMessageTintColor" private field.(íÊúÿÿÿÿ8·…Ô¿¢.
+h
+java:S1117„"ERename "shareActionModels" which hides the field declared at line 52.(„¸ªñÿÿÿÿÿ8 ý»¾¢.
+[
+java:S1068@"?Remove this unused "dialogMessageTintBackground" private field.(²à›o8·…Ô¿¢.
+}
+java:S14504"`Remove the "shareActionModels" field and declare it as a local variable in the relevant methods.(þ¬‡×8 ý»¾¢.
+\
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(ãÊ…Ÿ8Ð¥û¾¢.

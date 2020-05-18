@@ -1,0 +1,9 @@
+
+>
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+d
+java:S4042,"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+U	java:S899,";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+\	java:S899/"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
